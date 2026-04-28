@@ -13,7 +13,7 @@ git clone https://github.com/whhxf/gpt-image-2.git ~/.claude/skills/gpt-image-2
 
 ### Set up your API key
 
-Get an API key from [geekai.co](https://docs.geekai.co/cn/docs/quick_start), then set it as an environment variable:
+Get an API key from [geekai.co](https://geekai.co/chat?invite_code=BfUC20), then set it as an environment variable:
 
 ```bash
 export GEEKAI_API_KEY="sk-..."
