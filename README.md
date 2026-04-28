@@ -1,6 +1,6 @@
 # gpt-image-2
 
-A Claude Code skill for generating, editing, and fusing images using OpenAI's GPT-Image-2 model via the [geekai.co](https://geekai.co) API.
+A Claude Code skill for generating, editing, and fusing images using OpenAI's GPT-Image-2 model via the [geekai.co](https://geekai.co/chat?invite_code=BfUC20) API.
 
 ## Quick Start
 
@@ -73,7 +73,7 @@ python scripts/generate.py \
 | medium | ¥0.398 | ¥0.310 | ¥0.310 |
 | high | ¥1.586 | ¥1.240 | ¥1.240 |
 
-Prices may be lower with discount channels — see [geekai pricing docs](https://docs.geekai.co/cn/docs/model_price).
+Prices may be lower with discount channels — see [geekai pricing docs](https://geekai.co/chat?invite_code=BfUC20).
 
 ## Prompt Tips
 
